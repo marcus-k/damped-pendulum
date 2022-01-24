@@ -2,6 +2,9 @@
 
 A simple damped pendulum in Python. Tested with the Anaconda distribution of Python.
 
+https://user-images.githubusercontent.com/81660172/150719947-e8030e88-b890-42ca-a711-59bea6faadcf.mp4
+
+
 ## Usage
 
 To run, use:
